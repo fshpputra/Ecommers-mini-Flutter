@@ -1,0 +1,12 @@
+com.example.belajar_ecommers.app-debug-0 C:\Belajar_flutter\belajar_ecommers\android\app\src\debug\res
+com.example.belajar_ecommers.app-main-1 C:\Belajar_flutter\belajar_ecommers\android\app\src\main\res
+com.example.belajar_ecommers.app-pngs-2 C:\Belajar_flutter\belajar_ecommers\build\app\generated\res\pngs\debug
+com.example.belajar_ecommers.app-resValues-3 C:\Belajar_flutter\belajar_ecommers\build\app\generated\res\resValues\debug
+com.example.belajar_ecommers.app-rs-4 C:\Belajar_flutter\belajar_ecommers\build\app\generated\res\rs\debug
+com.example.belajar_ecommers.app-mergeDebugResources-5 C:\Belajar_flutter\belajar_ecommers\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.belajar_ecommers.app-mergeDebugResources-6 C:\Belajar_flutter\belajar_ecommers\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.belajar_ecommers.app-merged_res-7 C:\Belajar_flutter\belajar_ecommers\build\app\intermediates\merged_res\debug
+com.example.belajar_ecommers.app-jetified-annotation-experimental-1.1.0-8 C:\Users\BORNEO\.gradle\caches\transforms-3\02315cc9f75263553d2042718fc375ee\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.belajar_ecommers.app-jetified-window-1.0.0-beta04-9 C:\Users\BORNEO\.gradle\caches\transforms-3\076eb9235982ee06112d76594ea8585f\transformed\jetified-window-1.0.0-beta04\res
+com.example.belajar_ecommers.app-jetified-window-java-1.0.0-beta04-10 C:\Users\BORNEO\.gradle\caches\transforms-3\99750bb863b6fe460a7b5da8686e778d\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.belajar_ecommers.app-core-1.6.0-11 C:\Users\BORNEO\.gradle\caches\transforms-3\d08c73bfb05384f2e52578171dbd141e\transformed\core-1.6.0\res
